@@ -1,12 +1,14 @@
 [
-    {
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "uk.shop.amigao",
-        "sha256_cert_fingerprints": [
-          "TEST:HARSH"
-        ]
-      }
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.shop.mobile",
+      "sha256_cert_fingerprints": [
+        "D6:9E:AA:EC:ED:C1:3E:A5:5A:D2:38:1C:69:D8:B1:12:AA:DD:77:BF:A8:DB:B5:78:59:5F:04:E3:2F:46:10:F1"
+      ]
     }
-  ]
+  }
+]
